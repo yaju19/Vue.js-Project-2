@@ -28,3 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+##The above instructions were already present the downlaoded project template
+This project is having 3 components which are nested into each other.
+In this project todos can be created, deleted, modified and updated.
